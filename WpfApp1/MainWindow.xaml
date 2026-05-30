@@ -4,7 +4,7 @@
         Title="BIMO - Cybersecurity Awareness Bot"
         Height="700" Width="900"
         MinHeight="600" MinWidth="750"
-        WindowStartupLocation="CenterScreen"
+        WindowStartupLocation="CenterSceen"
         Background="#0A0E1A">
 
     <Window.Resources>
